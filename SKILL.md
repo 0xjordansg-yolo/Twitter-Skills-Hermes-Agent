@@ -14,7 +14,7 @@ metadata:
   version: "1.0.0"
   tags: twitter, x, social-media, social-listening, monitoring, oauth, engagement, aisa
   homepage: https://aisa.one
-  repository: https://github.com/AIsa-team/agent-skills
+  repository: https://github.com/0xjordansg-yolo/Twitter-Skills-Hermes-Agent
 ---
 
 # Twitter Autopilot 🐦
